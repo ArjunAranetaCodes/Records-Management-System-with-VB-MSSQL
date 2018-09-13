@@ -1,0 +1,13 @@
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\bin\Debug\VBMSSQLRecordSys.exe.config
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\bin\Debug\VBMSSQLRecordSys.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\bin\Debug\VBMSSQLRecordSys.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\bin\Debug\VBMSSQLRecordSys.xml
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\obj\Debug\VBMSSQLRecordSys.Form1.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\obj\Debug\VBMSSQLRecordSys.Resources.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\obj\Debug\VBMSSQLRecordSys.vbproj.GenerateResource.Cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\obj\Debug\VBMSSQLRecordSys.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\obj\Debug\VBMSSQLRecordSys.xml
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\obj\Debug\VBMSSQLRecordSys.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\obj\Debug\VBMSSQLRecordSys.Form2.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\obj\Debug\VBMSSQLRecordSys.Form3.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLRecordSys\VBMSSQLRecordSys\obj\Debug\VBMSSQLRecordSys.Form4.resources
